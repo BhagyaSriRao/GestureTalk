@@ -19,8 +19,4 @@ __pycache__/
 # Large datasets
 Data/
 
-# Model files
-Model/
-
-# Generated results
-results/
+desktop.ini
