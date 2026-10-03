@@ -1,0 +1,26 @@
+# Python virtual environment
+myenv/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables / secrets
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# Large datasets
+Data/
+
+# Model files
+Model/
+
+# Generated results
+results/
